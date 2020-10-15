@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 git hotfix release v1
 
 
 <H4>Adding H4 Line</H4>
+=======
+checking git stath
+checking git stash command
+
+<H2>Adding H2 tag</H2>
+<H3>Adding H3 Tag</H3>
+>>>>>>> Stashed changes
